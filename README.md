@@ -2,7 +2,7 @@
 
 An end-to-end analytics project that turns a single flat export of hospital patient encounters into a cleaned star-schema data model, a DAX measure layer and a four-page interactive Power BI dashboard covering **Overview, Patients, Operations and Finances**.
 
-<img width="1316" height="733" alt="Screenshot 2026-10-12 085250" src="https://github.com/user-attachments/assets/6ed5f867-b0bd-4a5a-91d5-b3e99e080da3" />
+<img width="1315" height="737" alt="Screenshot 2026-10-12 105113" src="https://github.com/user-attachments/assets/5a7792c1-1d63-4e2b-be17-cd678cabcf0e" />
 
 ---
 
@@ -304,14 +304,14 @@ The report uses one consistent layout: a title bar, a left navigation panel with
 
 ### 8.1 Overview
 
-<img width="1316" height="733" alt="Screenshot 2026-10-12 085250" src="https://github.com/user-attachments/assets/ef7d05bf-16a1-420b-b94d-5e92965aab3a" />
+<img width="1315" height="737" alt="Screenshot 2026-10-12 105113" src="https://github.com/user-attachments/assets/a848f8ec-d5a7-4712-b525-c1cbe423e304" />
 
 
 | Visual | Purpose |
 |---|---|
 | KPI cards: Total Patients, Total Encounters, Total Billings, Average Bill, Average LOS | Headline performance |
 | Encounters by Department | Where demand sits |
-| Patients by AgeGroup | Patient age profile |
+| Patients by Gender | Gender Distribution |
 | Encounters by Outcome | Share of discharges, follow-ups, transfers and referrals |
 | Encounters Over Time (Year Month) | Trend and seasonality |
 

@@ -448,20 +448,6 @@ These are analyst recommendations based on the dataset and should be validated a
 │   └── Healthcare Analytics Project_Power BI.pbix
 ├── docs/
 │   └── PROJECT_BRIEF.docx
-└── images/
-    ├── 01_dashboard_overview.png
-    ├── 02_dashboard_patients.png
-    ├── 03_dashboard_operations.png
-    ├── 04_dashboard_finances.png
-    ├── 05_raw_data_preview.png
-    ├── 06_pq_queries_pane.png
-    ├── 07_pq_fact_applied_steps.png
-    ├── 08_pq_dimension_tables.png
-    ├── 09_pq_data_quality_profile.png
-    ├── 10_data_model.png
-    ├── 11_date_table.png
-    ├── 12_relationships_active_inactive.png
-    ├── 13_dax_measures.png
 ```
 
 ---

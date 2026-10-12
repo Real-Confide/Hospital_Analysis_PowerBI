@@ -443,7 +443,7 @@ These are analyst recommendations based on the dataset and should be validated a
 .
 ├── README.md
 ├── data/
-│   └── Hospital_Encounters_Raw.csv
+│   └── Hospital_Encounters_Raw_Named.csv
 ├── powerbi/
 │   └── Healthcare Analytics Project_Power BI.pbix
 ├── docs/
@@ -462,7 +462,6 @@ These are analyst recommendations based on the dataset and should be validated a
     ├── 11_date_table.png
     ├── 12_relationships_active_inactive.png
     ├── 13_dax_measures.png
-    └── 14_dax_time_intelligence.png
 ```
 
 ---
